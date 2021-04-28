@@ -1,5 +1,5 @@
 {
-  "name": "webpack-package",
+  "name": "bering-travel",
   "version": "0.1.0",
   "description": "",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/webpack-package.git"
+    "url": "git+https://github.com/EdZev/bering-travel.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "EdZev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hexlet-boilerplates/webpack-package/issues"
+    "url": "https://github.com/EdZev/bering-travel/issues"
   },
-  "homepage": "https://github.com/hexlet-boilerplates/webpack-package#readme",
+  "homepage": "https://github.com/EdZev/bering-travel#readme",
   "jest": {
     "verbose": true,
     "testURL": "http://localhost/"
